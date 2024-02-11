@@ -36,10 +36,10 @@
   "bugs": "https://github.com/npm/libnpmpack/issues",
   "homepage": "https://npmjs.com/package/libnpmpack",
   "dependencies": {
-    "@npmcli/arborist": "^6.3.0",
-    "@npmcli/run-script": "^6.0.0",
+    "@npmcli/arborist": "^7.0.0",
+    "@npmcli/run-script": "^7.0.2",
     "npm-package-arg": "^10.1.0",
-    "pacote": "^15.0.8"
+    "pacote": "^17.0.4"
   },
   "engines": {
     "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
